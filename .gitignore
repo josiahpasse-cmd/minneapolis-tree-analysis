@@ -1,0 +1,13 @@
+# Private credentials
+.env*
+
+# Data files
+*.csv
+*.db
+*.geojson
+
+# VS Code Settings
+.vscode
+
+# Conda Environment
+.conda
