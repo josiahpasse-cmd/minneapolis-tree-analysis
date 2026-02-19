@@ -5,9 +5,13 @@
 *.csv
 *.db
 *.geojson
+*.json
 
 # VS Code Settings
 .vscode
 
 # Conda Environment
 .conda
+
+# Pycache
+__pycache__
