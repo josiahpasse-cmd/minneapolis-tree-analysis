@@ -29,7 +29,7 @@ Discuss your resampling results:
 * 10,000 resamples were collected
 * The 95% confidence interval for our median trees per square mile by neighborhoods was [3863.9357, 4763.9401]
 * The 95% confidence interval for our mean trees per square mile by neighborhoods was [3861.5501, 4394.0750]
-* How you interpret the interval estimates
+* Through bootstrapping we can be 95% confident that the actual value of this mean is between 3862 and 4394 trees per square mile.
 ## 7. Limitations
 In this analysis, we were limited by a number of things. Trees are constantly dying and new trees are planted. In this analysis, we looked at a snapshot collected over the course of a decade (2012 - 2022) that is now almost 4 years out of date. Lots can change in that time, so our data may not completely reflect the current state of trees maintained by municipal governments and nonprofits today. An additional factor is the emerald ash borer which has hit the state during those years, but has certainly continued to decimate the populations of ash trees since the end of our data collection period.
 
