@@ -5,7 +5,7 @@ Do neighborhoods with higher rates of homeownership tend to have more trees plan
  - **null** - The majority household type of a neighborhood does not have an effect on the number of trees per square mile maintained by the city and nonprofits within a neighborhood.
  - **alternative hypothesis** - Neighborhoods where the majority household type is Owner have a higher number of trees per square mile maintained by the city and nonprofits.
 ## 3. Data Description
-* My Data was obtained from a group of Minnesota Researchers who compiled data on trees from the Minneapolis-St.Paul Metropolitan Area. Their purpose was "*to examine fine-scale patterns of tree biodiversity across MSP.*". The compiled data fit the needs for my analysis as well, however.
+* My data was obtained from a group of Minnesota researchers who compiled data on trees from the Minneapolis-St.Paul Metropolitan Area. Their purpose was "*to examine fine-scale patterns of tree biodiversity across MSP.*". The compiled data fit the needs for my analysis as well, however.
 * Each observation represents an inventory record of a tree collected between 2012 and 2022 in the twin cities. This data was filtered in the analysis to only include samples within the city limits of Minneapolis.
 * 228,957 tree observations within the city limits of Minneapolis were included. 
 * cleaning: Many unneeded columns were dropped from the data. Data was filtered to the city of Minneapolis. Column headings were adjusted from more scientific terminology to more human-friendly column names.
